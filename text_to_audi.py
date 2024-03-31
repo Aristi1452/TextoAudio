@@ -8,7 +8,7 @@ from PIL import Image
 
 
 
-st.title("Texto a audio Marcela DM.")
+st.title("Texto a audio")
 image = Image.open('text_to_audio.png')
 
 st.image(image, width=200)
